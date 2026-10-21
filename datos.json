@@ -1,0 +1,12 @@
+[
+  { "nombre": "Teclado Gamer", "precio": 800, "categoria": "Accesorios" },
+  { "nombre": "Monitor 4K", "precio": 7500, "categoria": "Electrónica" },
+  { "nombre": "Mouse Inalámbrico", "precio": 450, "categoria": "Accesorios" },
+  { "nombre": "Impresora Epson", "precio": 3200, "categoria": "Oficina" },
+  { "nombre": "Laptop Lenovo", "precio": 16500, "categoria": "Electrónica" },
+  { "nombre": "Silla Ergonómica", "precio": 2800, "categoria": "Muebles" },
+  { "nombre": "Disco SSD 1TB", "precio": 1900, "categoria": "Almacenamiento" },
+  { "nombre": "Memoria RAM 16GB", "precio": 1200, "categoria": "Componentes" },
+  { "nombre": "Cámara Web HD", "precio": 600, "categoria": "Accesorios" },
+  { "nombre": "Audífonos Bluetooth", "precio": 950, "categoria": "Audio" }
+]
